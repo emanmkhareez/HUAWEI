@@ -56,6 +56,7 @@ for(i=0;i<count;i++){
    result+=img2
     
 }document.write(result)
+document.write("number pf photos")
 console.log(result);
    
 
