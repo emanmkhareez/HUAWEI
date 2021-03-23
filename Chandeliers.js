@@ -1,4 +1,4 @@
-/*var  nameColor =prompt(" enter your favourite color ")
+var  nameColor =prompt(" enter your favourite color ")
 
 if(nameColor=="red"){
     document.write("<p style=color:red; font-size=50px;>"+"Chandeliers"+"</p>")
@@ -20,7 +20,7 @@ else{
     alert("write one of these colors[red,blue,black,green]")
 }
 console.log(nameColor);
-*/
+
 
 var Age = prompt("whats your age?");
 function getAge(yourAge) {
@@ -73,7 +73,6 @@ var Chandeliers = function () {
 
 document.write(Chandeliers());
 document.write("number img =" + count);
-
 
 
 
