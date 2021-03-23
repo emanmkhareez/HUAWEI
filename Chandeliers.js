@@ -28,13 +28,13 @@ function getAge(yourAge) {
     console.log(Age);
     if (yourAge >= 20 && yourAge <= 50) {
         alert('welcome to the site');
-    
+
     } else {
         alert('can not see this site');
     }
 }
 document.write(getAge(Age))
-var count=''
+var count = ''
 var typeChandeliers = prompt("enter name of Chandeliers type ");
 
 var Chandeliers = function () {
@@ -63,7 +63,7 @@ var Chandeliers = function () {
 
 
 
-    } 
+    }
 
 
 
